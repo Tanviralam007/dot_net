@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|c:\\users\\acer\\downloads\\university\\dot_net\\dot_net\\prac\\intromvc\\intromvc\\views\\source\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\source\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\intromvc\\views\\source\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\source\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\intromvc\\views\\source\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\source\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\intromvc\\views\\source\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\source\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\intromvc\\controllers\\sourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1791528-1450-4AE2-B11C-55BE24C66192}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\controllers\\sourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Source\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Index.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Source\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T16:31:30.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Controllers\\SourceController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\SourceController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Controllers\\SourceController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\SourceController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:26:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Source\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Edit.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Source\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T15:58:25.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Contact.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Source\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\Contact.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Source\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T15:58:15.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\About.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Source\\About.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\university\\dot_NET\\dot_net\\prac\\IntroMVC\\IntroMVC\\Views\\Source\\About.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Source\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T15:57:53.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

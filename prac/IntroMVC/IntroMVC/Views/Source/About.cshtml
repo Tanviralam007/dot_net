@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+
+<ul>
+    <li>@Html.ActionLink("Home", "Index", "Source")</li>
+    <li>@Html.ActionLink("About Us", "About", "Source")</li>
+    <li>@Html.ActionLink("Contact", "Contact", "Source")</li>
+    <li>@Html.ActionLink("Edit Page", "Edit", "Source")</li>
+</ul>
+
+<h2>About Us</h2>
+<p>This is the about page.</p>
+
+<hr />
+
+<h2>About</h2>
+<table class="data-table">
+    <tr>
+        <th>DataType</th>
+        <th>NumberOfBytes</th>
+        <th>Scope</th>
+    </tr>
+    <tr>
+        <td>String</td>
+        <td>32</td>
+        <td>Local</td>
+    </tr>
+    <tr>
+        <td>String</td>
+        <td>32</td>
+        <td>Global</td>
+    </tr>
+    <tr>
+        <td>Double</td>
+        <td>32</td>
+        <td>Local</td>
+    </tr>
+    <tr>
+        <td>Int</td>
+        <td>32</td>
+        <td>Global</td>
+    </tr>
+    <tr>
+        <td>Char</td>
+        <td>2</td>
+        <td>Local</td>
+    </tr>
+</table>
+
